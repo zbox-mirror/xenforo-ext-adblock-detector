@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/xenforo-adblock-detector",
+  "name": "cmfstore/xenforo-ext-adblock-detector",
   "type": "xenforo-extension",
   "description": "Detecting ad blocking in browser.",
   "license": "MIT",
@@ -23,8 +23,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-adblock-detector/issues",
-    "source": "https://github.com/cmfstore/xenforo-adblock-detector"
+    "issues": "https://github.com/cmfstore/xenforo-ext-adblock-detector/issues",
+    "source": "https://github.com/cmfstore/xenforo-ext-adblock-detector"
   },
   "require": {
     "composer/installers": "^1.9"
