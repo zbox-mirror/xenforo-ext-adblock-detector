@@ -7,14 +7,14 @@
 | License      | MIT                                                |
 | Language     | Russian                                            |
 | Requirements | XenForo 2.1                                        |
-| Authors      | [z17 Dev](mailto:mail@z17.dev)                     |
+| Authors      | [z17 Development](mailto:mail@z17.dev)             |
 
 Определитель блокировки рекламы в браузере для [**XenForo**](https://xenforo.com).
 
 ## Install
 
 1. [Загрузить](https://github.com/zmarket/xenforo-ext-adblock-detector/tags) архив с последней версией расширения.
-2. Распаковать содержимое архива в `/src/addons/CMFStore/ext_c08c5b33/`, сохраняя структуру директорий.
+2. Распаковать содержимое архива в `/src/addons/Z17/ext_c08c5b33/`, сохраняя структуру директорий.
 3. Зайти в **AdminCP**, далее *Add-ons*, и установить необходимое расширение.
 3. Создать файл `ext.advert.min.js` в корне форума со следующим содержимым:
 
@@ -25,5 +25,5 @@
 ## Update
 
 1. [Загрузить](https://github.com/zmarket/xenforo-ext-adblock-detector/tags) архив с новой версией расширения.
-2. Распаковать содержимое архива в `/src/addons/CMFStore/ext_c08c5b33/`, сохраняя структуру директорий, заменяя существующие файлы и папки.
+2. Распаковать содержимое архива в `/src/addons/Z17/ext_c08c5b33/`, сохраняя структуру директорий, заменяя существующие файлы и папки.
 3. Зайти в **AdminCP**, далее *Add-ons*, и обновить необходимое расширение.
